@@ -3,7 +3,7 @@
 
 # Wiki Home
 Test
-![Img 20150620 192114](/uploads/img-20150620-192114.jpg "Img 20150620 192114")
+![Img 20150620 192114](/uploads/img-20150620-192114.jpg "Img 20150620 192114" =200)
 ## Subtitle Test
 jklsdjaglasjnglösadjg
 sjkadögjlsöagj

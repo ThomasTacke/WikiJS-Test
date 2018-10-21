@@ -3,7 +3,7 @@
 
 # Wiki Home
 Test
-<img src=/uploads/img-20150620-192114.jpg "Img 20150620 192114" width="200">
+![Img 20150620 192114](/uploads/img-20150620-192114.jpg "Img 20150620 192114"){.align-center, width=200}
 ## Subtitle Test
 jklsdjaglasjnglösadjg
 sjkadögjlsöagj
